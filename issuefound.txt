@@ -1,6 +1,6 @@
 This is the conflict file.
 This is add second line.
 
-hi there is good commit
+hi there is good commit but add changes for conflicts
 
 I am fixing this bug.
