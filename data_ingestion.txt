@@ -1,6 +1,5 @@
-Hey, I am ingesting the data in this file.
+Hey, I am not ingesting the data in this file bug is fixed.
 this is demo branch.
-<<<<<<< HEAD
+
 Master here. Let me also contribute to the project.
-=======
->>>>>>> demo_branch
+demo_branch
