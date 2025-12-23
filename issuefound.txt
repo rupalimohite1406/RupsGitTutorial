@@ -1,1 +1,2 @@
 This is the conflict file and bug fixing.
+I have add another line 
