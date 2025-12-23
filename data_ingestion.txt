@@ -1,3 +1,6 @@
 Hey, I am ingesting the data in this file.
 this is demo branch.
+<<<<<<< HEAD
 Master here. Let me also contribute to the project.
+=======
+>>>>>>> demo_branch
