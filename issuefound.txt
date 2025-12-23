@@ -1,2 +1,6 @@
 This is the conflict file.
 This is add second line.
+
+
+
+I am fixing this bug.
